@@ -1,2 +1,2 @@
 # DataProjSt2
-This stage was visualising the data. 
+The second stage of the data sciene project. This stage is all about data visualisation.
